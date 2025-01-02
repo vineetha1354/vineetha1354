@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vineetha1354
+- 👋 Hi, I’m @vattimilli padmini
 - 👀 I’m interested in python
 - 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on ...
